@@ -47,7 +47,7 @@ export default function App() {
 function Logo(){
   return (
     <div>
-      <h1>🌴Backpack buddy 💼</h1>
+      <h1>🌴Bagpack buddy 💼</h1>
     </div>
   );
 }
