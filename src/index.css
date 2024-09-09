@@ -37,7 +37,15 @@ h1 {
   letter-spacing: -5px;
   padding: 2.4rem 0;
 }
+h6{
+  text-align: center;
+  background-color: #f4a226;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 2rem;
+  text-transform: uppercase;
+  font-weight: 400;
 
+}
 .add-form {
   background-color: #e5771f;
   padding: 2.8rem 0;
